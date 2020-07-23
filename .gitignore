@@ -1,6 +1,6 @@
 venv/
 geckodriver.log
+geckodriver.exe
 .env
 __pycache__/
 chromedriver.exe
-gecodriver.exe
